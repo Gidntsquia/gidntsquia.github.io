@@ -6,21 +6,27 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jaxon.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Maryland, College Park </p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+### 👋 Hi, I'm Jaxon Lee
+I'm a computer scientist student at the University of Maryland who loves robotics, video games, and data analysis.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### 👨‍💻 Check out some of my projects
+- 🛴 [`http://rezoom.umd.edu`](http://rezoom.umd.edu) Autonomous scooter that navigates around campus by itself.
+- 🎈 [`UMDBPP/TUFFcode`](https://github.com/UMDBPP/TUFFcode) Upper-atmosphere research balloon that collected tension data to track air resistance
+- 📄 [`"TUFF: The Utility of Live Tension Measurements for Scientific Ballooning and Flight Dynamics"`](https://doi.org/10.31274/ahac.15632) Reseach paper I wrote about using tension measurements on weather balloons
+- 🎮 [`Gidntsquia/HalloweenGameJam2021`](https://github.com/Gidntsquia/HalloweenGameJam2021) Short game I created for a Halloween themed game jam
+- 🤖 [`RockvilleRobotics/Incredibots2019`](https://github.com/rockvillerobotics/Incredibots2019) Fully autonomous robot I deployed to international competetion of 80+ teams, placing top 5 in the world
+- 📄 [`"Simulating Robot Tournaments"`](https://github.com/Gidntsquia/JaxonLee/files/7237609/Lee_IB_Math_IA.pdf) Academic paper I wrote simulating the winners of the cancelled 2020 international competition. Honored by event organizers on event website
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+🤿 For fun...
+- 🎄 [`Gidntsquia/AdventOfCode`](https://github.com/Gidntsquia/AdventOfCode) My solutions to December 2022's "Advent of Code" puzzles
+- 🦅 [`Birds need a BUFF`](https://steamcommunity.com/sharedfiles/filedetails/?id=2721164122&searchtext=) Popular mod I made for my favorite indie game, Luck be a Landlord
